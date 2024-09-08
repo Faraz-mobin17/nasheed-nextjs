@@ -1,5 +1,5 @@
 "use client";
-import courseData from "@/data/music_courses.json";
+import courseData from "@/data/Nasheed_courses.json";
 import Link from "next/link";
 import { BackgroundGradient } from "./ui/background-gradient";
 interface Course {

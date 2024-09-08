@@ -14,7 +14,7 @@
       "id": 2,
       "title": "Piano for Beginners",
       "slug": "piano-for-beginners",
-      "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+      "description": "Start your Nasheedal journey with foundational piano skills taught by expert instructors.",
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
@@ -52,19 +52,19 @@
     },
     {
       "id": 6,
-      "title": "Music Production Fundamentals",
-      "slug": "music-production-fundamentals",
-      "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+      "title": "Nasheed Production Fundamentals",
+      "slug": "Nasheed-production-fundamentals",
+      "description": "Dive into Nasheed production with this introductory course on the basics of sound engineering and mixing.",
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "/courses/Nasheed-prod.jpg"
     },
     {
       "id": 7,
       "title": "Songwriting Essentials",
       "slug": "songwriting-essentials",
-      "description": "Learn the essentials of songwriting to express your musical creativity.",
+      "description": "Learn the essentials of songwriting to express your Nasheedal creativity.",
       "price": 159.99,
       "instructor": "Samantha Miller",
       "isFeatured": false,
@@ -72,23 +72,23 @@
     },
     {
       "id": 8,
-      "title": "Electronic Music Production",
-      "slug": "electronic-music-production",
-      "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+      "title": "Electronic Nasheed Production",
+      "slug": "electronic-Nasheed-production",
+      "description": "Create compelling electronic Nasheed with our course designed for beginners to advanced users.",
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "/courses/Nasheed-prod.jpg"
     },
     {
       "id": 9,
-      "title": "Classical Music History",
-      "slug": "classical-music-history",
-      "description": "Explore the rich history of classical music from its origins to the present day.",
+      "title": "Classical Nasheed History",
+      "slug": "classical-Nasheed-history",
+      "description": "Explore the rich history of classical Nasheed from its origins to the present day.",
       "price": 179.99,
       "instructor": "Grace Lee",
       "isFeatured": false,
-      "image": "/courses/classical-music.jpg"
+      "image": "/courses/classical-Nasheed.jpg"
     },
     {
       "id": 10,
